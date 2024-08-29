@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+
+
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="App font-bold text-4xl text-green-900">
-      hellow world
+    <div >
+      <Body/>
     </div>
   );
 }
