@@ -18,7 +18,7 @@
 - Bugfix: if the user is not logged in Redirect /browse to Login page and vice-versa
 - Unsubscribe to the onAuthStateChanged callback
 - Add hardCoded values to the constants file
-- Register rapid api & create an app & get access 
+- Register Tmdb api & create an app & get access 
 - Get Data from Tmdb api
 - custom hook for now playing Movies
 - create MovieSlice
@@ -28,6 +28,7 @@
 - update store with trailer video Data 
 - Embeded the youTube video and make it autoplay and mute 
 - Tailwind classes to make Main container awesome
+- Build secondery component
 
 # Features
 

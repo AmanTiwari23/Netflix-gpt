@@ -1,19 +1,22 @@
 import React from "react";
 import Header from "./Header";
-import useAddMovies from "../customhook/useAddMovies";
+
 import MainContainer from "./MainContainer";
 import SecondaryContainer from "./SecondaryContainer";
+import useNowPlayingMovies from "../customhook/useNowPlayingMovies";
+import usePopularMovies from "../customhook/usePopularMovies";
 
 
 const Browse = () => {
 
-  useAddMovies();
+  useNowPlayingMovies();
+  usePopularMovies();
   
   return (
-    <div>
+    <div className="w-screen">
       <Header />
       <MainContainer/>
-      {/* <SecondaryContainer/>  */}
+      <SecondaryContainer />
     </div>
   );
 };
