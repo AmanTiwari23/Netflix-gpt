@@ -2,7 +2,7 @@
 
 - create React App
 - configured tailwindCss
-- Headwe
+- Header
 - Login Form
 - Sign up Form
 - Form Validation
@@ -29,7 +29,14 @@
 - Embeded the youTube video and make it autoplay and mute 
 - Tailwind classes to make Main container awesome
 - Build secondery component
-
+- build movie card
+- build movie list 
+- build browse page with tailwind
+- created custom hook for populer movies 
+- created tmdb image cdn url
+- created Gpt Search page
+- (*)Developed Multi-language feture in our App
+- 
 # Features
 
 - Login/Sign Up
