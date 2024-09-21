@@ -1,4 +1,4 @@
-# vidFlix-gpt
+# NetFlix-gpt
 
 - create React App
 - configured tailwindCss
