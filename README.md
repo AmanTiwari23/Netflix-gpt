@@ -37,7 +37,14 @@
 - created Gpt Search page
 - (*)Developed Multi-language feture in our App
 - build the gptsearch page
-- fetch the movie
+- get open AI api kry
+- fetch the gptmovies suggestions from tmdb
+-  created gpt slice added data
+- Reuse movie list to make suggetion container
+- Memoization
+- made are site compatible for the mobaile
+
+
 # Features
 
 - Login/Sign Up
