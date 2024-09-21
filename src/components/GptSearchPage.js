@@ -6,10 +6,10 @@ import GptMovieSuggestions from "./GptMovieSuggestions";
 const GptSearchPage = () => {
   return (
     <div>
-      <div className="absolute -z-10">
+      <div className="-z-10 fixed">
         <img src={BACKGROUND} alt="background"/>
       </div>
-      <GptSearchBar />
+      <GptSearchBar/>
       <GptMovieSuggestions/> 
     </div>
   );

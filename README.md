@@ -36,7 +36,8 @@
 - created tmdb image cdn url
 - created Gpt Search page
 - (*)Developed Multi-language feture in our App
-- 
+- build the gptsearch page
+- fetch the movie
 # Features
 
 - Login/Sign Up
